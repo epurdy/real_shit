@@ -1,1 +1,11 @@
 # real_shit
+
+This repository exists separately from the other AdvancedResearch repositories because I (Eric Purdy) wish to have the option to put a very restrictive license on certain components necessary for building a superintelligence.
+
+The plan is to license the software under the Affero General Public License (v1), which requires SaaS companies and other providing networked services built on top of the software to provide source for any derivative work, but which does not come with the patent enforcement restrictions of GPLv3. 
+
+Since this repository will almost certainly make extensive use of GPLv3 libraries, this puts us into an interesting position. We cannot enforce patents in a way that is detrimental to the GPLv3 ecosystem without enduring massive retaliation. Thus we are guaranteed to be at least as reasonable as the GPLv3 ecosystem demands that we be. But we are still able to enforce patents that the GPLv3 ecosystem allows us to enforce. Thus, if our patent portfolio becomes usefully strong, we will be able to enforce our patents to demand that big tech companies not use this software for evil purposes.
+
+Which brings us to the next point, which is governmental use. In general, Eric Purdy's position is that the US government and the governments of US allies are free to license this software and its accompanying patents for free, as long as it does so on a case-by-case basis such that evil uses of the technology can be somewhat stifled by not licensing the technology to governmental departments whose mission is incompatible with human values and human freedom. As of May 2018, ICE is the only US governmental department that we anticipate not licensing the technology to.
+
+What about the governments of countried not allied with the United States? It is presumed that they will not respect any patent or intellectual property rights that we assert, so it is presumed that they will simply use this software for free with no regard for any values that they do not themselves believe in. We accept this as a sort of cost of doing business, but note that this repository will always be the tip of a very large iceberg of related work, and encourage anybody foolish enough to consider the United States an enemy to rather seek peace with the United States on whatever terms the United States is merciful enough to grant them.
